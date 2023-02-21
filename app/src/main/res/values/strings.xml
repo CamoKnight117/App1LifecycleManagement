@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App1LifecycleManagement</string>
+    <string name="first_name">first name</string>
+    <string name="middle_name">middle name</string>
+    <string name="last_name">last name</string>
+    <string name="submit_button">Submit</string>
+    <string name="profile_pic">profile picture</string>
+    <string name="error_fill_edittext">Please fill out all text boxes before submission!</string>
+    <string name="error_profile_pic">Please take a profile picture before submission!</string>
+</resources>
